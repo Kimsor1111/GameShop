@@ -1,0 +1,749 @@
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	.menu nav{
+        width: 50%;
+    }
+    .menu .sidemenu{
+        width: 15%;
+    }
+    .slider{
+        height: 530px;
+    }
+    .slider button{
+        width: 40px;
+        height: 40px;
+        font-size: 26px;
+    }
+    .box{
+        width: 450px;
+        height: 450px;
+    }
+    .h1{
+        font-size: 42px;
+        margin-block: 40px;
+    }
+    .asus-feature{
+        margin-top: 10px;
+    }
+    .asus-feature .item{
+        width: 49.5%;
+        height: 320px;
+    }
+    .product-container .item{
+        width: 33%;
+        height: 400px;
+    }
+    .compaign-container{
+        width: 90vw;
+        height: 300px;
+    }
+    .compaign-container .compaign{
+        width: 3800px;
+    }
+    .compaign-container .compaign .item{
+        width: 9.5%;
+    }
+    .compaign-container .compaign .item .des{
+        font-size: 15px;
+    }
+    .btn{
+        width: 90px;
+        height: 40px;
+    }
+    .btn button{
+        width: 40px;
+        height: 40px;
+    }
+    .game-feature{
+        width: 95%;
+    }
+    .game-feature .item{
+        width: 49%;
+        height: 400px;
+    }
+    .game-feature .item .des{
+        font-size: 20px;
+        margin-top: 25px;
+    }
+    footer{
+        height: 1000px;
+    }
+    footer .foot-container .brand{
+        width: 50%;
+        height: 6%;
+        margin-top: 10px;
+    }
+    footer .foot-container{
+        width: 92%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    footer .foot-container .menu-footer{
+        height: 90%;
+    }
+    footer .foot-container .menu-footer .sub-menu{
+        width: 30%;
+        height: 50%;
+
+    }
+    footer .foot-container .menu-footer .sub-menu:last-child{
+        width: 30%;
+    }
+    footer .foot-container .menu-footer .sub-menu ul li:first-child p{
+        font-size: 20px;
+    }
+    footer .foot-container .menu-footer .sub-menu ul li{
+        margin-block: 5px;
+    }
+    footer .foot-container .menu-footer .sub-menu ul li a{
+        font-size: 15px;
+    }
+    footer .foot-container .menu-footer .sub-menu .icon-container .icon i{
+        font-size: 25px;
+    }
+    footer .foot-container .sony-container .img{
+        width: 15%;
+        height: 40%;
+    }
+    footer .foot-container .sony-container .img p{
+        font-size: 16px;
+    }
+    footer .foot-container .sony-container .des{
+        font-size: 15px;
+    }
+    footer .foot-container .location-container{
+        height: 5%;
+        margin-top: 15px;
+    }
+    footer .foot-container .location-container .icon i{
+        font-size: 25px;
+    }
+    footer .foot-container .location-container .icon p{
+        font-size: 15px;
+    }
+    footer .foot-container .location-container .agreement{
+        width: 80%;
+    }
+    footer .foot-container .location-container .agreement{
+        justify-content: space-evenly;
+        margin-inline: 5px;
+    }
+    footer .foot-container .location-container .agreement ul li{
+        margin-inline: -5px;
+    }
+    footer .foot-container .location-container .agreement ul li a{
+        font-size: 15px;
+    }
+    footer .foot-container .menu-footer .sub-menu .icon-container{
+        width: 50%;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .menu nav{
+        width: 60%;
+    }
+    .menu .sidemenu{
+        width: 20%;
+    }
+    .slider{
+        height: 480px;
+    }
+    .slider button{
+        width: 40px;
+        height: 40px;
+        font-size: 26px;
+    }
+    .box{
+        width: 430px;
+        height: 430px;
+    }
+    .h1{
+        font-size: 38px;
+        margin-block: 40px;
+    }
+    .asus-feature{
+        margin-top: 10px;
+    }
+    .asus-feature .item{
+        width: 49.5%;
+        height: 290px;
+    }
+    .product-container .item{
+        width: 33%;
+        height: 420px;
+    }
+    .compaign-container{
+        width: 95vw;
+        height: 300px;
+    }
+    .compaign-container .compaign{
+        width: 3800px;
+    }
+    .compaign-container .compaign .item{
+        width: 9.5%;
+    }
+    .compaign-container .compaign .item .des{
+        font-size: 15px;
+    }
+    .btn{
+        width: 90px;
+        height: 40px;
+    }
+    .btn button{
+        width: 40px;
+        height: 40px;
+    }
+    .game-feature{
+        width: 95%;
+    }
+    .game-feature .item{
+        width: 49%;
+        height: 370px;
+    }
+    .game-feature .item .des{
+        font-size: 18px;
+        margin-top: 25px;
+    }
+    footer{
+        height: 1000px;
+    }
+    footer .foot-container .brand{
+        width: 50%;
+        height: 6%;
+        margin-top: 10px;
+    }
+    footer .foot-container{
+        width: 92%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    footer .foot-container .menu-footer{
+        height: 90%;
+    }
+    footer .foot-container .menu-footer .sub-menu{
+        width: 50%;
+        height: 29%;
+
+    }
+    footer .foot-container .menu-footer .sub-menu:last-child{
+        width: 50%;
+    }
+    footer .foot-container .menu-footer .sub-menu ul li:first-child p{
+        font-size: 20px;
+    }
+    footer .foot-container .menu-footer .sub-menu ul li{
+        margin-block: 5px;
+    }
+    footer .foot-container .menu-footer .sub-menu ul li a{
+        font-size: 15px;
+    }
+    footer .foot-container .menu-footer .sub-menu .icon-container .icon i{
+        font-size: 25px;
+    }
+    footer .foot-container .sony-container{
+        height: 15%;
+    }
+    footer .foot-container .sony-container .img{
+        width: 15%;
+        height: 40%;
+    }
+    footer .foot-container .sony-container .img p{
+        font-size: 15px;
+    }
+    footer .foot-container .sony-container .des{
+        font-size: 14px;
+    }
+    footer .foot-container .location-container{
+        height: 5%;
+        margin-top: 15px;
+    }
+    footer .foot-container .location-container .icon{
+        width: 20%;
+    }
+    footer .foot-container .location-container .icon i{
+        font-size: 20px;
+    }
+    footer .foot-container .location-container .icon p{
+        font-size: 14px;
+    }
+    footer .foot-container .location-container .agreement{
+        width: 80%;
+    }
+    footer .foot-container .location-container .agreement{
+        justify-content: space-evenly;
+        margin-inline: 5px;
+    }
+    footer .foot-container .location-container .agreement ul li{
+        margin-inline: -5px;
+    }
+    footer .foot-container .location-container .agreement ul li a{
+        font-size: 10px;
+    }
+    footer .foot-container .menu-footer .sub-menu .icon-container{
+        width: 60%;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px){ 
+    .menu nav{
+        width: 75%;
+    }
+    .menu .sidemenu{
+        width: 25%;
+    }
+    .menu nav ul li p{
+        font-size: 13px;
+    }
+    .menu nav ul li .submenu-container .submenu .submenu-element ul li a{
+        font-size: 15px;
+    }
+    .menu .sidemenu .icon i.fa-magnifying-glass input{
+        right: -70px;
+    }
+    .slider{
+        height: 400px;
+    }
+    .slider button{
+        width: 30px;
+        height: 30px;
+        font-size: 20px;
+    }
+    .box{
+        width: 400px;
+        height: 400px;
+    }
+    .h1{
+        font-size: 35px;
+        margin-block: 40px;
+    }
+    .asus-feature{
+        margin-top: 5px;
+    }
+    .asus-feature .item{
+        width: 100%;
+        height: 350px;
+    }
+    .product-container .item{
+        width: 49%;
+        height: 400px;
+    }
+    .compaign-container{
+        width: 95vw;
+        height: 300px;
+    }
+    .compaign-container .compaign{
+        width: 3800px;
+    }
+    .compaign-container .compaign .item{
+        width: 9.5%;
+    }
+    .compaign-container .compaign .item .des{
+        font-size: 15px;
+    }
+    .btn{
+        width: 70px;
+        height: 30px;
+    }
+    .btn button{
+        width: 30px;
+        height: 30px;
+        font-size: 15px;
+    }
+    .game-feature{
+        width: 95%;
+    }
+    .game-feature .item{
+        width: 100%;
+        height: 500px;
+    }
+    .game-feature .item .des{
+        font-size: 25px;
+        margin-top: 25px;
+    }
+    footer{
+        height: 1200px;
+    }
+    footer .foot-container .brand{
+        width: 50%;
+        height: 3%;
+        margin-top: 10px;
+    }
+    footer .foot-container{
+        width: 97%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    footer .foot-container .menu-footer{
+        height: 80%;
+    }
+    footer .foot-container .menu-footer .sub-menu{
+        width: 50%;
+        height: 33%;
+    }
+    footer .foot-container .menu-footer .sub-menu:last-child{
+        width: 50%;
+    }
+    footer .foot-container .menu-footer .sub-menu ul li:first-child p{
+        font-size: 22px;
+    }
+    footer .foot-container .menu-footer .sub-menu ul li{
+        margin-block: 3px;
+    }
+    footer .foot-container .menu-footer .sub-menu ul li a{
+        font-size: 15px;
+    }
+    footer .foot-container .menu-footer .sub-menu .icon-container .icon i{
+        font-size: 25px;
+    }
+    footer .foot-container .sony-container{
+        width: 100%;
+        height: 18%;
+    }
+    footer .foot-container .sony-container .img{
+        width: 15%;
+        height: 40%;
+    }
+    footer .foot-container .sony-container .img p{
+        font-size: 18px;
+    }
+    footer .foot-container .sony-container .des{
+        font-size: 16px;
+    }
+    footer .foot-container .location-container{
+        height: 5%;
+        margin-top: 15px;
+    }
+    footer .foot-container .location-container .icon{
+        width: 20%;
+    }
+    footer .foot-container .location-container .icon i{
+        font-size: 18px;
+    }
+    footer .foot-container .location-container .icon p{
+        font-size:8px;
+    }
+    footer .foot-container .location-container .agreement{
+        width: 100%;
+    }
+    footer .foot-container .location-container .agreement{
+        justify-content: space-evenly;
+        margin-inline: 5px;
+    }
+    footer .foot-container .location-container .agreement ul li{
+        margin-inline: -5px;
+    }
+    footer .foot-container .location-container .agreement ul li a{
+        font-size: 8px;
+    }
+    footer .foot-container .menu-footer .sub-menu .icon-container{
+        width: 50%;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .menu nav{
+        width: 60%;
+    }
+    .menu nav ul li p{
+        font-size: 15px;
+    }
+    .menu .sidemenu{
+        width: 20%;
+    }
+    .slider{
+        height: 480px;
+    }
+    .slider button{
+        width: 40px;
+        height: 40px;
+        font-size: 26px;
+    }
+    .box{
+        width: 430px;
+        height: 430px;
+    }
+    .h1{
+        font-size: 38px;
+        margin-block: 40px;
+    }
+    .asus-feature{
+        margin-top: 10px;
+    }
+    .asus-feature .item{
+        width: 49.5%;
+        height: 290px;
+    }
+    .product-container .item{
+        width: 33%;
+        height: 420px;
+    }
+    .compaign-container{
+        width: 95vw;
+        height: 300px;
+    }
+    .compaign-container .compaign{
+        width: 3800px;
+    }
+    .compaign-container .compaign .item{
+        width: 9.5%;
+    }
+    .compaign-container .compaign .item .des{
+        font-size: 15px;
+    }
+    .btn{
+        width: 90px;
+        height: 40px;
+    }
+    .btn button{
+        width: 40px;
+        height: 40px;
+    }
+    .game-feature{
+        width: 95%;
+    }
+    .game-feature .item{
+        width: 49%;
+        height: 370px;
+    }
+    .game-feature .item .des{
+        font-size: 18px;
+        margin-top: 25px;
+    }
+    footer{
+        height: 1000px;
+    }
+    footer .foot-container .brand{
+        width: 50%;
+        height: 6%;
+        margin-top: 10px;
+    }
+    footer .foot-container{
+        width: 92%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    footer .foot-container .menu-footer{
+        height: 90%;
+    }
+    footer .foot-container .menu-footer .sub-menu{
+        width: 50%;
+        height: 29%;
+
+    }
+    footer .foot-container .menu-footer .sub-menu:last-child{
+        width: 50%;
+    }
+    footer .foot-container .menu-footer .sub-menu ul li:first-child p{
+        font-size: 20px;
+    }
+    footer .foot-container .menu-footer .sub-menu ul li{
+        margin-block: 5px;
+    }
+    footer .foot-container .menu-footer .sub-menu ul li a{
+        font-size: 15px;
+    }
+    footer .foot-container .menu-footer .sub-menu .icon-container .icon i{
+        font-size: 25px;
+    }
+    footer .foot-container .sony-container{
+        height: 15%;
+    }
+    footer .foot-container .sony-container .img{
+        width: 15%;
+        height: 40%;
+    }
+    footer .foot-container .sony-container .img p{
+        font-size: 15px;
+    }
+    footer .foot-container .sony-container .des{
+        font-size: 14px;
+    }
+    footer .foot-container .location-container{
+        height: 5%;
+        margin-top: 15px;
+    }
+    footer .foot-container .location-container .icon{
+        width: 20%;
+    }
+    footer .foot-container .location-container .icon i{
+        font-size: 20px;
+    }
+    footer .foot-container .location-container .icon p{
+        font-size: 14px;
+    }
+    footer .foot-container .location-container .agreement{
+        width: 80%;
+    }
+    footer .foot-container .location-container .agreement{
+        justify-content: space-evenly;
+        margin-inline: 5px;
+    }
+    footer .foot-container .location-container .agreement ul li{
+        margin-inline: -5px;
+    }
+    footer .foot-container .location-container .agreement ul li a{
+        font-size: 10px;
+    }
+    footer .foot-container .menu-footer .sub-menu .icon-container{
+        width: 60%;
+    }
+}
+
+@media (max-width: 575.98px) {
+	.menu nav{
+        width: 90%;
+    }
+    .menu nav ul li p{
+        font-size: 10px;
+    }
+    .menu .sidemenu{
+        width: 13%;
+    }
+    .menu .sidemenu .icon i{
+        font-size: 15px;
+    }
+    .menu .sidemenu .icon i.fa-magnifying-glass input{
+        right: 0px;
+    }
+    .slider{
+        height: 300px;
+    }
+    .slider button{
+        width: 30px;
+        height: 30px;
+        font-size: 23px;
+    }
+    .box{
+        width: 400px;
+        height: 400px;
+    }
+    .h1{
+        font-size: 28px;
+        margin-block: 40px;
+    }
+    .asus-feature{
+        margin-top: 10px;
+    }
+    .asus-feature .item{
+        width: 100%;
+        height: 290px;
+    }
+    .product-container .item{
+        width: 100%;
+        height: 420px;
+    }
+    .compaign-container{
+        width: 95vw;
+        height: 300px;
+    }
+    .compaign-container .compaign{
+        width: 3800px;
+    }
+    .compaign-container .compaign .item{
+        width: 9.7%;
+    }
+    .compaign-container .compaign .item .des{
+        font-size: 15px;
+    }
+    .btn{
+        width: 90px;
+        height: 40px;
+    }
+    .btn button{
+        width: 40px;
+        height: 40px;
+    }
+    .game-feature{
+        width: 97%;
+    }
+    .game-feature .item{
+        width: 100%;
+        height: 380px;
+    }
+    .game-feature .item .des{
+        font-size: 18px;
+        margin-top: 25px;
+    }
+    footer{
+        height: fit-content;
+    }
+    footer .foot-container .brand{
+        width: 50%;
+        height: 6%;
+        margin-top: 10px;
+    }
+    footer .foot-container{
+        width: 92%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    footer .foot-container .menu-footer{
+        height: 90%;
+    }
+    footer .foot-container .menu-footer .sub-menu{
+        width: 100%;
+        height: 30%;
+    }
+    footer .foot-container .menu-footer .sub-menu:last-child{
+        width: 100%;
+    }
+    footer .foot-container .menu-footer .sub-menu ul li:first-child p{
+        font-size: 20px;
+    }
+    footer .foot-container .menu-footer .sub-menu ul li{
+        margin-block: 5px;
+    }
+    footer .foot-container .menu-footer .sub-menu ul li a{
+        font-size: 15px;
+    }
+    footer .foot-container .menu-footer .sub-menu .icon-container .icon i{
+        font-size: 25px;
+    }
+    footer .foot-container .sony-container{
+        height: 15%;
+    }
+    footer .foot-container .sony-container .img{
+        width: 15%;
+        height: 40%;
+    }
+    footer .foot-container .sony-container .img p{
+        font-size: 15px;
+    }
+    footer .foot-container .sony-container .des{
+        font-size: 12px;
+    }
+    footer .foot-container .location-container{
+        height: 5%;
+        margin-top: 15px;
+    }
+    footer .foot-container .location-container .icon{
+        width: 20%;
+    }
+    footer .foot-container .location-container .icon i{
+        font-size: 20px;
+    }
+    footer .foot-container .location-container .icon p{
+        font-size: 8px;
+    }
+    footer .foot-container .location-container .agreement{
+        width: 80%;
+    }
+    footer .foot-container .location-container .agreement{
+        justify-content: space-evenly;
+        margin-inline: 5px;
+    }
+    footer .foot-container .location-container .agreement ul li{
+        margin-inline: -5px;
+    }
+    footer .foot-container .location-container .agreement ul li a{
+        font-size: 8px;
+    }
+    footer .foot-container .menu-footer .sub-menu .icon-container{
+        width: 30%;
+    }
+}
